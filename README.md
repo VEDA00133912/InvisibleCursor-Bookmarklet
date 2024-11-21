@@ -8,7 +8,7 @@
 ![image](https://github.com/user-attachments/assets/73e68760-14e4-4610-a46d-34cb640efa7f)
 
 > [!IMPORTANT]
-> 学校に管理されている端末の場合、Policyでブックマークレットの実行がブロックされている場合があります
+> 学校に管理されている端末の場合、Policyでブックマークレットの実行がブロックされている場合があります<br>
 > Googleのホーム画面では実行できません
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # InvisibleCursor-Bookmarklet
@@ -19,5 +19,5 @@ Cursor Transparency Script
 3. Run it again and it will appear again
 
 > [!IMPORTANT]
-> If your device is controlled by a school or company, policies may block the bookmarklet from running.
+> If your device is controlled by a school or company, policies may block the bookmarklet from running<br>
 > Cannot be run on Google's home screen
