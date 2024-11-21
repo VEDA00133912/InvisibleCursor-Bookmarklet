@@ -8,8 +8,6 @@
 <br>
 ![image](https://github.com/user-attachments/assets/73e68760-14e4-4610-a46d-34cb640efa7f)
 
-<br>
-
 > [!IMPORTANT]
 > 学校に管理されている端末の場合、Policyでブックマークレットの実行がブロックされている場合があります<br>
 > Googleのホーム画面では実行できません
@@ -22,8 +20,6 @@ Cursor Transparency Script
 3. Run it again and it will appear again
 <br>
 ![image](https://github.com/user-attachments/assets/17cdd3f3-a680-4ff2-bf3b-d2a064cd2d38)
-
-<br>
 
 > [!IMPORTANT]
 > If your device is controlled by a school or company, policies may block the bookmarklet from running<br>
